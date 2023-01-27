@@ -1,4 +1,4 @@
-package com.cm;
+package com.cm.aa;
 
 import java.util.Scanner;
 
