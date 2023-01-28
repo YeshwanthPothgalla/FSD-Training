@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d493eafa-41f4-45c9-a3b3-41d1d23a6483" name="Changes" comment="trying to push this project.">
+    <list default="true" id="d493eafa-41f4-45c9-a3b3-41d1d23a6483" name="Changes" comment="trying to push this project for training">
+      <change afterPath="$PROJECT_DIR$/src/com/cm/aa/SpecialSeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/aa/AbstractScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/aa/AbstractScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/aa/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/aa/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/aa/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/aa/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/aa/UltraScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/aa/UltraScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cm/aa/ViewerTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cm/aa/ViewerTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -60,20 +68,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.com.cm.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cm.Application" />
-      <module name="TicketingSystem" />
-      <option name="PROGRAM_PARAMETERS" value="Irving USA TX" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cm.aa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aa.Main" />
       <module name="TicketingSystem" />
@@ -89,13 +83,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.cm.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cm.Application" />
+      <module name="TicketingSystem" />
+      <option name="PROGRAM_PARAMETERS" value="Irving USA TX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cm.aa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.com.cm.Application" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.cm.Application" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -144,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674853354412</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="trying to push this project for training">
+      <created>1674853484323</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674853484323</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to push this project." />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to push this project." />
+    <MESSAGE value="trying to push this project for training" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to push this project for training" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TicketingSystem$Application.ic" NAME="Application Coverage Results" MODIFIED="1674852592014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

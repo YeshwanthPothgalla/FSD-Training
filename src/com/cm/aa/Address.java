@@ -7,11 +7,22 @@ public class Address {
     String addressLine1;
     String addressLine2;
     String city;
+    String state;
+    String zipCode;
     String Country;
 
     public String getCountry() {
         return Country;
     }
+
+    public String getState() {
+        return state;
+    }
+
+    public void setState(String state) {
+        this.state = state;
+    }
+
 
     public void setCountry(String country) {
         Country = country;
@@ -34,6 +45,7 @@ public class Address {
     }
 
     public void setZipCode(String zipCode) {
+
         this.zipCode = zipCode;
     }
 
@@ -57,7 +69,6 @@ public class Address {
         return zipCode;
     }
 
-    String zipCode;
 
 
 }

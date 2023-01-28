@@ -15,7 +15,8 @@ public class Application {
 
         Theater t1 = new Theater("AMC", "Irving");
         t1.getAddress().setCountry("USA");
-        t1.reserve(1,5, 20, ViewerTypeEnum.STUDENT);
+        t1.reserve(1,5, 20);
+        t1.reserve(2, ViewerTypeEnum.STUDENT);
         System.out.println("Welcome to "+ t1.name+" "+t1.getAddress().getCity()+" "+ t1.getAddress().getCountry());
 
        int[] data = new int[5];

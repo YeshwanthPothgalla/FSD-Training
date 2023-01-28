@@ -1,5 +1,5 @@
 package com.cm.aa;
 
 public enum ViewerTypeEnum {
-    CHILD, SENIOR_CITIZEN, STUDENT, ADULT;
+    CHILD, SENIOR_CITIZEN, STUDENT, ADULT, DISABLED_PERSON;
 }
